@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0" stop-color="#05070C"/>
+    <stop offset=".5" stop-color="#09111C"/>
+    <stop offset="1" stop-color="#05070C"/>
+  </linearGradient>
+  <linearGradient id="beam">
+    <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+    <stop offset=".48" stop-color="#38BDF8"/>
+    <stop offset=".7" stop-color="#818CF8"/>
+    <stop offset="1" stop-color="#818CF8" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1200" height="130" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="128" rx="17" fill="none" stroke="#1E293B"/>
+
+<!-- circuit traces -->
+<g fill="none" stroke="#1E3A5F" stroke-width="1.2" opacity=".65">
+  <path d="M0 28 H165 L195 50 H335"/>
+  <path d="M0 102 H145 L180 78 H330"/>
+  <path d="M1200 28 H1035 L1005 50 H865"/>
+  <path d="M1200 102 H1055 L1020 78 H870"/>
+</g>
+
+<!-- circuit nodes -->
+<g fill="#38BDF8">
+  <circle cx="165" cy="28" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="1.7s" repeatCount="indefinite"/></circle>
+  <circle cx="195" cy="50" r="2.5"><animate attributeName="opacity" values="1;.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="1035" cy="28" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1005" cy="50" r="2.5"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- center AI core -->
+<g transform="translate(600 65)">
+  <circle r="37" fill="none" stroke="#1E293B" stroke-width="1"/>
+  <circle r="27" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="10 8">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="17" fill="none" stroke="#818CF8" stroke-width="1.5" stroke-dasharray="5 6">
+    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="6" fill="#38BDF8" filter="url(#glow)">
+    <animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".55;1;.55" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- travelling data pulses -->
+<circle r="3" fill="#7DD3FC" filter="url(#glow)">
+  <animateMotion dur="4s" repeatCount="indefinite" path="M0,65 L470,65"/>
+</circle>
+<circle r="3" fill="#818CF8" filter="url(#glow)">
+  <animateMotion dur="4.4s" repeatCount="indefinite" path="M1200,65 L730,65"/>
+</circle>
+
+<!-- side scanner beams -->
+<rect x="270" y="63" width="190" height="3" rx="1.5" fill="url(#beam)">
+  <animate attributeName="x" values="250;360;250" dur="3.5s" repeatCount="indefinite"/>
+</rect>
+<rect x="740" y="63" width="190" height="3" rx="1.5" fill="url(#beam)" transform="rotate(180 835 64.5)">
+  <animate attributeName="x" values="760;650;760" dur="3.5s" repeatCount="indefinite"/>
+</rect>
+
+<!-- tiny particles -->
+<g fill="#38BDF8" opacity=".75">
+  <circle cx="80" cy="65" r="1.5"><animate attributeName="cx" values="80;440;80" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="1120" cy="65" r="1.5"><animate attributeName="cx" values="1120;760;1120" dur="8s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
