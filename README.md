@@ -1,8 +1,44 @@
 <div align="center">
 
-# 👋 Hi, I'm Swathika Shankar
+<!-- ====================================================== -->
+
+<!--                 FUTURISTIC HEADER                      -->
+
+<!-- ====================================================== -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+LLM+%7C+RAG+%7C+NLP;Building+Production-Ready+AI+Systems;Tamil+%7C+Tanglish+%7C+English+AI" alt="Typing SVG" />
+  <img
+    src="https://raw.githubusercontent.com/Swathika-shankar/Swathika-shankar/main/swathika-futuristic-professional-banner.svg"
+    width="100%"
+    alt="Swathika Shankar AI Engineering Portfolio"
+  />
+</p>
+
+<!-- ====================================================== -->
+
+<!--                 ASCII PROFILE SCAN                     -->
+
+<!-- ====================================================== -->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Swathika-shankar/Swathika-shankar/main/swathika-terminal-profile-scan-fixed.svg"
+    width="100%"
+    alt="Swathika Shankar AI Engineer animated terminal profile scan"
+  />
+</p>
+
+<!-- ====================================================== -->
+
+<!--                  TYPING ANIMATION                      -->
+
+<!-- ====================================================== -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=920&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+%7C+LLMs+%7C+RAG+%7C+NLP;Building+Production-Ready+AI+Systems;Tamil+%7C+Tanglish+%7C+English+AI;Research+%E2%86%92+Build+%E2%86%92+Evaluate+%E2%86%92+Deploy"
+    alt="Typing animation"
+  />
 </p>
 
 ### AI & Machine Learning Engineer | Generative AI | NLP | RAG & LLM Systems
@@ -255,13 +291,29 @@ Autonomous research workflow using specialised AI agents to coordinate different
 `Python` `Generative AI` `LLMs` `AI Agents` `Tool Calling` `Multi-Agent Systems`
 
 ---
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Swathika-shankar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Swathika-shankar&theme=github_dark"
+alt="GitHub Statistics"
+/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swathika-shankar&layout=compact&theme=transparent&hide_border=true" />
+<img
+width="49%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Swathika-shankar&theme=github_dark"
+alt="Top Languages"
+/>
+
+<br/><br/>
+
+<img
+width="98%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swathika-shankar&theme=github_dark"
+alt="GitHub Profile Details"
+/>
 
 </div>
 
@@ -347,5 +399,17 @@ Jan 2023 – Jun 2023
 ### 💡 From AI research to production-ready intelligent systems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Swathika-shankar&label=Profile%20Views&style=for-the-badge)
+
+
+<div align="center">
+
+<br/>
+
+
+<br/><br/>
+
+`AI Engineering` • `Generative AI` • `RAG` • `NLP` • `Cloud`
+
+</div>
 
 </div>
