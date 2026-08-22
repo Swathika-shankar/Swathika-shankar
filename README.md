@@ -411,5 +411,11 @@ Jan 2023 – Jun 2023
 `AI Engineering` • `Generative AI` • `RAG` • `NLP` • `Cloud`
 
 </div>
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Swathika-shankar/Swathika-shankar/main/swathika-ai-core-footer.svg"
+    width="100%"
+    alt="Animated AI core"
+  />
+</p>
 </div>
