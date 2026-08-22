@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Swathika-shankar/Swathika-shankar/main/swathika-futuristic-professional-banner.svg"
+    src="https://raw.githubusercontent.com/Swathika-shankar/Swathika-shankar/main/swathika-welcome-banner.svg"
     width="100%"
     alt="Swathika Shankar AI Engineering Portfolio"
   />
