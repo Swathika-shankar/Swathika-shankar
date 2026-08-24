@@ -286,6 +286,25 @@ Autonomous research workflow using specialised AI agents to coordinate different
 - 👥 Specialised agent roles
 - ✅ Output validation
 
+---
+
+### ☕ Coffee Commerce Full-Stack Platform
+
+A responsive full-stack coffee commerce platform featuring product browsing, shopping cart, table booking, contact, services and admin interfaces.
+
+**Tech Stack:**  
+`JavaScript` `HTML5` `CSS3` `Node.js` `Express.js` `MongoDB` `Mongoose` `REST API`
+
+🔗 [View Repository](https://github.com/Swathika-shankar/Coffee-commerce-fullstack)
+
+<p align="center">
+  <a href="https://github.com/Swathika-shankar/Coffee-commerce-fullstack">
+    <img src="https://raw.githubusercontent.com/Swathika-shankar/Coffee-commerce-fullstack/main/docs/screenshots/home-hero.png"
+         width="90%"
+         alt="Coffee Commerce Full Stack Platform">
+  </a>
+</p>
+
 **Stack**
 
 `Python` `Generative AI` `LLMs` `AI Agents` `Tool Calling` `Multi-Agent Systems`
