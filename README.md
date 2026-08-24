@@ -201,80 +201,280 @@ Building production-ready AI systems from research and experimentation to APIs, 
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Systems;From+Research+%E2%86%92+Engineering+%E2%86%92+Deployment;AI+%2B+Full-Stack+Engineering"
+  alt="Featured Projects Animation"
+/>
+
+</div>
+
+<br/>
+
 ## 🤖 Swathi AI — Enterprise Multilingual AI Assistant
 
-> Production-style multilingual AI platform combining classical NLP, Generative AI, hybrid RAG, backend engineering, automated testing and cloud deployment.
+<div align="center">
+
+<img src="https://img.shields.io/badge/PRODUCTION_AI-SYSTEM-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TAMIL-TANGLISH-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-ENABLED-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AZURE-DEPLOYED-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+</div>
+
+> 🌐 Production-style multilingual AI platform combining NLP, Generative AI, hybrid RAG, backend engineering, automated testing and cloud deployment.
+
+### ⚡ AI Core
+
+```text
+USER
+  │
+  ▼
+Tamil / Tanglish / English
+  │
+  ▼
+Intent Classification ──────► BERT
+  │
+  ├──────────────► Hybrid RAG
+  │                   │
+  │              FAISS + BM25
+  │                   │
+  ▼                   ▼
+Gemini LLM ◄──── Retrieved Context
+  │
+  ▼
+Grounded AI Response
+```
 
 ### ✨ Highlights
 
-- 🌍 Supports **Tamil, Tanglish & English**
-- 🧠 **BERT-based intent classification**
-- ✨ **Google Gemini** for open-ended conversations
-- 🔎 Hybrid RAG with **FAISS + BM25**
-- 📚 Semantic embeddings and grounded document question answering
-- 📄 PDF, DOCX & TXT document ingestion
-- ⚡ Production-style **FastAPI REST API**
-- 🖥️ Interactive **Streamlit** frontend
-- 🔐 Registration, login, guest access & password recovery
+- 🌍 Tamil, Tanglish & English support
+- 🧠 BERT intent classification
+- ✨ Google Gemini integration
+- 🔎 Hybrid **FAISS + BM25** retrieval
+- 📚 Semantic document search
+- 📄 PDF / DOCX / TXT ingestion
+- ⚡ FastAPI REST API
+- 🖥️ Streamlit frontend
+- 🔐 Authentication & guest access
 - 🎙️ Voice input
-- 💬 Persistent conversation history
-- 🗄️ PostgreSQL + SQLite persistence
-- 🐳 Docker containerisation
-- 🔄 Automated **GitHub Actions CI/CD**
-- ☁️ Deployment with **Azure Container Apps**
-- 🧪 **50 automated tests passing**
+- 🗄️ PostgreSQL + SQLite
+- 🐳 Docker
+- 🔄 GitHub Actions CI/CD
+- ☁️ Azure Container Apps
 
-**Stack**
+### 🛠️ AI Stack
 
-`Python` `FastAPI` `Streamlit` `BERT` `Transformers` `Gemini` `FAISS` `BM25` `PostgreSQL` `SQLite` `Docker` `GitHub Actions` `Azure`
+`Python` `BERT` `Transformers` `Gemini` `FAISS` `BM25` `FastAPI` `Streamlit` `PostgreSQL` `Docker` `Azure`
+
+<div align="center">
+
+<a href="https://github.com/Swathika-shankar/swathi-ai-enterprise-assistant">
+  <img src="https://img.shields.io/badge/🚀_EXPLORE_SWATHI_AI-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
+<br/>
+
+## ☕ Coffee Commerce — Full-Stack Experience
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=650&color=C9955D&center=true&vCenter=true&width=850&lines=Modern+Coffee+Commerce+Experience;Interactive+Storefront+%2B+Backend;Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB"
+  alt="Coffee Commerce Animation"
+/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FULL_STACK-APPLICATION-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESPONSIVE-UI-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MONGODB-DATABASE-14532D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</div>
+
+<br/>
+
+> ☕ A responsive coffee commerce platform combining an immersive storefront with product browsing, cart functionality, table reservations, customer contact workflows and backend services.
+
+### 🖥️ Project Preview
+
+<div align="center">
+
+<a href="https://github.com/Swathika-shankar/Coffee-commerce-fullstack">
+  <img
+    src="https://raw.githubusercontent.com/Swathika-shankar/Coffee-commerce-fullstack/main/docs/screenshots/home-hero.png"
+    width="94%"
+    alt="Coffee Commerce Full-Stack Platform"
+  />
+</a>
+
+</div>
+
+### ✨ Features
+
+- ☕ Interactive coffee catalogue
+- 🛒 Shopping cart
+- 📅 Table reservations
+- 📩 Customer contact interface
+- 🛠️ Admin interface
+- ⚡ Node.js + Express backend
+- 🗄️ MongoDB + Mongoose
+- 🔗 REST API architecture
+- 📱 Responsive design
+- ✨ 3D-inspired UI effects
+
+### 🛠️ Full-Stack Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/Swathika-shankar/Coffee-commerce-fullstack">
+  <img src="https://img.shields.io/badge/☕_EXPLORE_COFFEE_COMMERCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 ## ⚙️ Production ML Pipeline
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MLOPS-PIPELINE-0194E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CI%2FCD-AUTOMATED-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRIFT-MONITORING-E91E63?style=for-the-badge"/>
+
+</div>
 
 ### CI/CD • Drift Monitoring • Containerised Model API
 
-Production-oriented machine learning pipeline demonstrating how a trained model can move beyond experimentation into a monitored and deployable service.
+Production-oriented ML pipeline demonstrating how a trained model moves from experimentation into a monitored and deployable service.
+
+```text
+DATA
+ │
+ ▼
+TRAIN MODEL
+ │
+ ▼
+EVALUATION
+ │
+ ▼
+DOCKER API
+ │
+ ▼
+CI/CD
+ │
+ ▼
+DEPLOYMENT
+ │
+ ▼
+DRIFT MONITORING
+ │
+ └──────────► RETRAIN
+```
 
 ### ✨ Highlights
 
-- 🤖 Productionised a trained ML model
+- 🤖 Productionised ML model
 - ⚡ REST API model serving
-- 🐳 Docker-based deployment
-- 🔄 Automated CI/CD workflow
-- 🧪 Automated quality checks
-- 📊 Model and data drift monitoring
+- 🐳 Docker deployment
+- 🔄 Automated CI/CD
+- 🧪 Quality checks
+- 📊 Model & data drift monitoring
 - 🔁 Retraining-oriented workflow
 
 **Stack**
 
 `Python` `Machine Learning` `REST API` `Docker` `CI/CD` `DVC` `Model Monitoring`
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🧠 Parameter-Efficient LLM Fine-Tuning
 
-### LoRA / QLoRA
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM-FINE_TUNING-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRA-PARAMETER_EFFICIENT-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QLoRA-OPTIMISED-7B1FA2?style=for-the-badge"/>
+
+</div>
 
 Fine-tuning project exploring efficient adaptation of open-source language models without requiring full-model training.
 
 ### ✨ Highlights
 
-- 🧠 Open-source language model adaptation
-- ⚡ Parameter-efficient fine-tuning
-- 🔧 LoRA / QLoRA techniques
+- 🧠 Open-source LLM adaptation
+- ⚡ Parameter-efficient training
+- 🔧 LoRA / QLoRA
 - 📊 Pre/post adaptation benchmarking
-- 🎯 Domain-specific classification / generation
+- 🎯 Domain-specific adaptation
 
 **Stack**
 
 `Python` `Transformers` `LLMs` `LoRA` `QLoRA` `Model Evaluation`
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🤖 Multi-Agent Research Assistant
 
-Autonomous research workflow using specialised AI agents to coordinate different stages of research and report generation.
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2300&pause=700&color=8A2BE2&center=true&vCenter=true&width=850&lines=PLAN+%E2%86%92+RESEARCH+%E2%86%92+ANALYSE+%E2%86%92+REPORT;Specialised+AI+Agents+Working+Together"
+  alt="Multi Agent Animation"
+/>
+
+</div>
+
+Autonomous research workflow using specialised AI agents to coordinate research and report generation.
+
+```text
+                 ┌─────────────┐
+                 │   PLANNER   │
+                 └──────┬──────┘
+                        │
+             ┌──────────▼──────────┐
+             │   RESEARCH AGENT    │
+             └──────────┬──────────┘
+                        │
+             ┌──────────▼──────────┐
+             │ SUMMARISATION AGENT │
+             └──────────┬──────────┘
+                        │
+                 ┌──────▼──────┐
+                 │   REPORT    │
+                 │ GENERATION  │
+                 └─────────────┘
+```
 
 ### ✨ Highlights
 
@@ -282,32 +482,26 @@ Autonomous research workflow using specialised AI agents to coordinate different
 - 🌐 Web research workflow
 - 📝 Automated summarisation
 - 📑 Report generation
-- 🛠️ Tool / function calling
-- 👥 Specialised agent roles
+- 🛠️ Tool/function calling
+- 👥 Specialised agents
 - ✅ Output validation
-
----
-
-### ☕ Coffee Commerce Full-Stack Platform
-
-A responsive full-stack coffee commerce platform featuring product browsing, shopping cart, table booking, contact, services and admin interfaces.
-
-**Tech Stack:**  
-`JavaScript` `HTML5` `CSS3` `Node.js` `Express.js` `MongoDB` `Mongoose` `REST API`
-
-🔗 [View Repository](https://github.com/Swathika-shankar/Coffee-commerce-fullstack)
-
-<p align="center">
-  <a href="https://github.com/Swathika-shankar/Coffee-commerce-fullstack">
-    <img src="https://raw.githubusercontent.com/Swathika-shankar/Coffee-commerce-fullstack/main/docs/screenshots/home-hero.png"
-         width="90%"
-         alt="Coffee Commerce Full Stack Platform">
-  </a>
-</p>
 
 **Stack**
 
 `Python` `Generative AI` `LLMs` `AI Agents` `Tool Calling` `Multi-Agent Systems`
+
+---
+
+<div align="center">
+
+### ⚡ Research → Build → Evaluate → Deploy
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Engineering;Full-Stack+Engineering;MLOps+%26+Cloud;Building+Systems+That+Ship"
+  alt="Engineering Animation"
+/>
+
+</div>
 
 ---
 # 📊 GitHub Analytics
